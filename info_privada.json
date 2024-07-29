@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "Juan",
+        "apellido": "Cardenas",
+        "edad": 19,
+        "sexo": "Masculino"
+    },
+    {
+        "nombre": "Jhoan",
+        "apellido": "Oyola",
+        "edad": 20,
+        "sexo": "Masculino"
+    }
+]
